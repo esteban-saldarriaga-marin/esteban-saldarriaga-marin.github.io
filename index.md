@@ -2,6 +2,12 @@ I'm a master's student at <a href="https://matematicas.uniandes.edu.co/es" targe
 
 <a href="CV.pdf" target="_blank" rel="noopener noreferrer">Here</a>'s is my CV. My email is e.saldarriagam2[at]uniandes[dot]edu[dot]co.
 
+<nav>
+  <a href="/">Home</a><br/>
+  <a href="/research">Research</a><br/>
+  <a href="/teaching">Teaching</a>
+</nav>
+
 ## Research
 
 My mathematical interests are number theory and, in particular, arithmetic geometry. I'm currently delving into Iwasawa theory, interested in learning about Iwasawa theory for elliptic curves and computational aspects of arithmetic geometry.
