@@ -9,4 +9,5 @@ Office hours for students (<a href="https://pentagono.bookeau.com/#/login" targe
 
 To arrange additional spaces, contact via email.
 
-I was also a teaching assistant at <a href="https://sites.google.com/view/agrav/main-page" target="_blank" rel="noopener noreferrer">AGRA V</a>, which was held in Popayán, Colombia, for the course Métodos explícitos de Chabauty: un punto de vista computacional a los puntos racionales.
+### Past
+- Métodos explícitos de Chabauty: un punto de vista computacional a los puntos racionales at <a href="https://sites.google.com/view/agrav/main-page" target="_blank" rel="noopener noreferrer">AGRA V</a>.
