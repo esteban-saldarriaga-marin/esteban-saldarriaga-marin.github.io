@@ -1,0 +1,10 @@
+
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Change the font size of the description in the header */
+header p {
+  font-size: 14px;
+}
