@@ -1,6 +1,6 @@
 I'm a master's student at <a href="https://matematicas.uniandes.edu.co/es" target="_blank" rel="noopener noreferrer">Universidad de los Andes</a> working under <a href="https://sites.google.com/view/jerson-caro/" target="_blank" rel="noopener noreferrer">Jerson Caro-Reyes</a> in diverse topics in number theory and arithmetic geometry. I received my undergraduate degree in December of 2024 at <a href="https://ciencias.medellin.unal.edu.co/escuelas/matematicas/" target="_blank" rel="noopener noreferrer">Universidad Nacional de Colombia</a>, where I was mentored by <a href="https://sites.google.com/view/guillermo-mantilla-soler/home" target="_blank" rel="noopener noreferrer">Guillermo Mantilla-Soler</a>.
 
-Here's my <a href="CV.pdf" target="_blank" rel="noopener noreferrer">CV</a>, and my email is e.saldarriagam2 [at] uniandes [dot] edu [dot] co.
+<a href="CV.pdf" target="_blank" rel="noopener noreferrer">Here</a>'s is my CV.
 
 ## Research
 
