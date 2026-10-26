@@ -1,6 +1,4 @@
----
-title: Esteban Saldarriaga-Marín
----
+# Esteban Saldarriaga-Marín
 
 I'm a master's student at <a href="https://matematicas.uniandes.edu.co/es" target="_blank" rel="noopener noreferrer">Universidad de los Andes</a> working under <a href="https://sites.google.com/view/jerson-caro/" target="_blank" rel="noopener noreferrer">Jerson Caro-Reyes</a> in diverse topics in number theory and arithmetic geometry. I received my undergraduate degree in December of 2024 at <a href="https://ciencias.medellin.unal.edu.co/escuelas/matematicas/" target="_blank" rel="noopener noreferrer">Universidad Nacional de Colombia</a>, where I was mentored by <a href="https://sites.google.com/view/guillermo-mantilla-soler/home" target="_blank" rel="noopener noreferrer">Guillermo Mantilla-Soler</a>.
 
