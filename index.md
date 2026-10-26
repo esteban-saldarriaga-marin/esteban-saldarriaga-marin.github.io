@@ -9,6 +9,7 @@ I'm a master's student at <a href="https://matematicas.uniandes.edu.co/es" targe
   <a href="/research">Research</a><br/>
   <a href="/teaching">Teaching</a>
 </nav>
+<br/>
 
 ## Research
 
