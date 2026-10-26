@@ -6,4 +6,5 @@ I'm a master's student at <a href="https://matematicas.uniandes.edu.co/es" targe
 
 My mathematical interests are number theory and, in particular, arithmetic geometry. I'm currently delving into Iwasawa theory, interested in learning about Iwasawa theory for elliptic curves and computational aspects of arithmetic geometry.
 
-## [Teaching](https://esteban-saldarriaga-marin.github.io/teaching)
+## Teaching
+I’m a teaching assistant at Universidad de los Andes’ Mathematics Department. Click [here](https://esteban-saldarriaga-marin.github.io/teaching) to see current and past courses.
